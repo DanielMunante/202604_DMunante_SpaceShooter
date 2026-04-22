@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 0cb15b95f5078dc40ab60efecbd8dfee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9132053475045490246
+    second: NES - Gradius - Playable Characters - Vic Viper_0
+  - first:
+      213: 2634802577822255880
+    second: NES - Gradius - Playable Characters - Vic Viper_1
+  - first:
+      213: 8696257151385643626
+    second: NES - Gradius - Playable Characters - Vic Viper_2
+  - first:
+      213: -3975083097472731464
+    second: NES - Gradius - Playable Characters - Vic Viper_3
+  - first:
+      213: 8515963865395092068
+    second: NES - Gradius - Playable Characters - Vic Viper_4
+  - first:
+      213: 3823891776016502110
+    second: NES - Gradius - Playable Characters - Vic Viper_5
+  - first:
+      213: 3039282064124092109
+    second: NES - Gradius - Playable Characters - Vic Viper_6
+  - first:
+      213: -8819378354561570604
+    second: NES - Gradius - Playable Characters - Vic Viper_7
+  - first:
+      213: -6862729091126025910
+    second: NES - Gradius - Playable Characters - Vic Viper_8
+  - first:
+      213: -4962499989679080733
+    second: NES - Gradius - Playable Characters - Vic Viper_9
+  - first:
+      213: 2635442268137189269
+    second: NES - Gradius - Playable Characters - Vic Viper_10
+  - first:
+      213: 9145872529878507476
+    second: NES - Gradius - Playable Characters - Vic Viper_11
+  - first:
+      213: 3678027389685764078
+    second: NES - Gradius - Playable Characters - Vic Viper_12
+  - first:
+      213: 4457246757686431751
+    second: NES - Gradius - Playable Characters - Vic Viper_13
+  - first:
+      213: -3842608780503160964
+    second: NES - Gradius - Playable Characters - Vic Viper_14
+  - first:
+      213: -2229933811770556375
+    second: NES - Gradius - Playable Characters - Vic Viper_15
+  - first:
+      213: 1204539666257113952
+    second: NES - Gradius - Playable Characters - Vic Viper_16
+  - first:
+      213: 614903452212706713
+    second: NES - Gradius - Playable Characters - Vic Viper_17
+  - first:
+      213: -1651528079555547764
+    second: NES - Gradius - Playable Characters - Vic Viper_18
+  - first:
+      213: -1386117114486701266
+    second: NES - Gradius - Playable Characters - Vic Viper_19
+  - first:
+      213: 1524744619907951488
+    second: NES - Gradius - Playable Characters - Vic Viper_20
+  - first:
+      213: -1593828065925439696
+    second: NES - Gradius - Playable Characters - Vic Viper_21
+  - first:
+      213: 3122011268364189178
+    second: NES - Gradius - Playable Characters - Vic Viper_22
+  - first:
+      213: -5058516417315270440
+    second: NES - Gradius - Playable Characters - Vic Viper_23
+  - first:
+      213: 2039415353982491735
+    second: NES - Gradius - Playable Characters - Vic Viper_24
+  - first:
+      213: 6687445695978962101
+    second: NES - Gradius - Playable Characters - Vic Viper_25
+  - first:
+      213: -6094535500387669408
+    second: NES - Gradius - Playable Characters - Vic Viper_26
+  - first:
+      213: -213900931517810208
+    second: NES - Gradius - Playable Characters - Vic Viper_27
+  - first:
+      213: 959841136006344591
+    second: NES - Gradius - Playable Characters - Vic Viper_28
+  - first:
+      213: -5560036467436009639
+    second: NES - Gradius - Playable Characters - Vic Viper_29
+  - first:
+      213: -6054189915728778733
+    second: NES - Gradius - Playable Characters - Vic Viper_30
+  - first:
+      213: -6584637795251667316
+    second: NES - Gradius - Playable Characters - Vic Viper_31
+  - first:
+      213: -6078842105133855726
+    second: NES - Gradius - Playable Characters - Vic Viper_32
+  - first:
+      213: 1573887655074075031
+    second: NES - Gradius - Playable Characters - Vic Viper_33
+  - first:
+      213: 7514628362600146181
+    second: NES - Gradius - Playable Characters - Vic Viper_34
+  - first:
+      213: -6311787548213429287
+    second: NES - Gradius - Playable Characters - Vic Viper_35
+  - first:
+      213: 6114437259260170904
+    second: NES - Gradius - Playable Characters - Vic Viper_36
+  - first:
+      213: -3923203245893664785
+    second: NES - Gradius - Playable Characters - Vic Viper_37
+  - first:
+      213: -5219785656786323210
+    second: NES - Gradius - Playable Characters - Vic Viper_38
+  - first:
+      213: -4592411433694576098
+    second: NES - Gradius - Playable Characters - Vic Viper_39
+  - first:
+      213: 7411442167326785536
+    second: NES - Gradius - Playable Characters - Vic Viper_40
+  - first:
+      213: 1217551459778140273
+    second: NES - Gradius - Playable Characters - Vic Viper_41
+  - first:
+      213: 2876182167896646501
+    second: NES - Gradius - Playable Characters - Vic Viper_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1ca068fbd644180800000000000000
+      internalID: -9132053475045490246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 115
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b01681cf2b09420800000000000000
+      internalID: 2634802577822255880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 116
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aaacfedcf4fa870800000000000000
+      internalID: 8696257151385643626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 117
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b67a76dbfaa5d8c0800000000000000
+      internalID: -3975083097472731464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46adfec1408ce2670800000000000000
+      internalID: 8515963865395092068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d40097f41311530800000000000000
+      internalID: 3823891776016502110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce155c3fe2bd2a20800000000000000
+      internalID: 3039282064124092109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 93
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8a6941d164b9580800000000000000
+      internalID: -8819378354561570604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a1bd7040b2c0a0800000000000000
+      internalID: -6862729091126025910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 93
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea7c454d88a12bb0800000000000000
+      internalID: -4962499989679080733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 93
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fed5a97c8f29420800000000000000
+      internalID: 2635442268137189269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 93
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df5968eb9aacee70800000000000000
+      internalID: 9145872529878507476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 93
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef80648c6afa0330800000000000000
+      internalID: 3678027389685764078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 94
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70059248f425bdd30800000000000000
+      internalID: 4457246757686431751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77ef435caf4caac0800000000000000
+      internalID: -3842608780503160964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 94
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92088cc430fad01e0800000000000000
+      internalID: -2229933811770556375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 94
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637f1dc17267b010800000000000000
+      internalID: 1204539666257113952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dbc409e63988800800000000000000
+      internalID: 614903452212706713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d228936f79419e0800000000000000
+      internalID: -1651528079555547764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 77
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234eed04d583cce0800000000000000
+      internalID: -1386117114486701266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 75
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b2dc2472bf82510800000000000000
+      internalID: 1524744619907951488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f577981d591e9e0800000000000000
+      internalID: -1593828065925439696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd3d9b15bc935b20800000000000000
+      internalID: 3122011268364189178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0117f9e1a8cc9b0800000000000000
+      internalID: -5058516417315270440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c9a9b85757d4c10800000000000000
+      internalID: 2039415353982491735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc7a8bcd649ecc50800000000000000
+      internalID: 6687445695978962101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa26ca04cdb6ba0800000000000000
+      internalID: -6094535500387669408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e971cf6c32180df0800000000000000
+      internalID: -213900931517810208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f27708d6a025d00800000000000000
+      internalID: 959841136006344591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957424c8a48c6d2b0800000000000000
+      internalID: -5560036467436009639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aeb3e19523bfba0800000000000000
+      internalID: -6054189915728778733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb967efcaae94a0800000000000000
+      internalID: -6584637795251667316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c0fcdff4d93aba0800000000000000
+      internalID: -6078842105133855726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 43
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7911015cb7297d510800000000000000
+      internalID: 1573887655074075031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 42
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5056bdb7ea2594860800000000000000
+      internalID: 7514628362600146181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db310b8aa60868a0800000000000000
+      internalID: -6311787548213429287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8929d97aa48dad450800000000000000
+      internalID: 6114437259260170904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 38
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef39d21f6bfd89c0800000000000000
+      internalID: -3923203245893664785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 37
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8729bc9989f87b0800000000000000
+      internalID: -5219785656786323210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 31
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124138f12a7440c0800000000000000
+      internalID: -4592411433694576098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0004dd8326bbad660800000000000000
+      internalID: 7411442167326785536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17895df0a9c95e010800000000000000
+      internalID: 1217551459778140273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Playable Characters - Vic Viper_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563eaca61704ae720800000000000000
+      internalID: 2876182167896646501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Gradius - Playable Characters - Vic Viper_0: -9132053475045490246
+      NES - Gradius - Playable Characters - Vic Viper_1: 2634802577822255880
+      NES - Gradius - Playable Characters - Vic Viper_10: 2635442268137189269
+      NES - Gradius - Playable Characters - Vic Viper_11: 9145872529878507476
+      NES - Gradius - Playable Characters - Vic Viper_12: 3678027389685764078
+      NES - Gradius - Playable Characters - Vic Viper_13: 4457246757686431751
+      NES - Gradius - Playable Characters - Vic Viper_14: -3842608780503160964
+      NES - Gradius - Playable Characters - Vic Viper_15: -2229933811770556375
+      NES - Gradius - Playable Characters - Vic Viper_16: 1204539666257113952
+      NES - Gradius - Playable Characters - Vic Viper_17: 614903452212706713
+      NES - Gradius - Playable Characters - Vic Viper_18: -1651528079555547764
+      NES - Gradius - Playable Characters - Vic Viper_19: -1386117114486701266
+      NES - Gradius - Playable Characters - Vic Viper_2: 8696257151385643626
+      NES - Gradius - Playable Characters - Vic Viper_20: 1524744619907951488
+      NES - Gradius - Playable Characters - Vic Viper_21: -1593828065925439696
+      NES - Gradius - Playable Characters - Vic Viper_22: 3122011268364189178
+      NES - Gradius - Playable Characters - Vic Viper_23: -5058516417315270440
+      NES - Gradius - Playable Characters - Vic Viper_24: 2039415353982491735
+      NES - Gradius - Playable Characters - Vic Viper_25: 6687445695978962101
+      NES - Gradius - Playable Characters - Vic Viper_26: -6094535500387669408
+      NES - Gradius - Playable Characters - Vic Viper_27: -213900931517810208
+      NES - Gradius - Playable Characters - Vic Viper_28: 959841136006344591
+      NES - Gradius - Playable Characters - Vic Viper_29: -5560036467436009639
+      NES - Gradius - Playable Characters - Vic Viper_3: -3975083097472731464
+      NES - Gradius - Playable Characters - Vic Viper_30: -6054189915728778733
+      NES - Gradius - Playable Characters - Vic Viper_31: -6584637795251667316
+      NES - Gradius - Playable Characters - Vic Viper_32: -6078842105133855726
+      NES - Gradius - Playable Characters - Vic Viper_33: 1573887655074075031
+      NES - Gradius - Playable Characters - Vic Viper_34: 7514628362600146181
+      NES - Gradius - Playable Characters - Vic Viper_35: -6311787548213429287
+      NES - Gradius - Playable Characters - Vic Viper_36: 6114437259260170904
+      NES - Gradius - Playable Characters - Vic Viper_37: -3923203245893664785
+      NES - Gradius - Playable Characters - Vic Viper_38: -5219785656786323210
+      NES - Gradius - Playable Characters - Vic Viper_39: -4592411433694576098
+      NES - Gradius - Playable Characters - Vic Viper_4: 8515963865395092068
+      NES - Gradius - Playable Characters - Vic Viper_40: 7411442167326785536
+      NES - Gradius - Playable Characters - Vic Viper_41: 1217551459778140273
+      NES - Gradius - Playable Characters - Vic Viper_42: 2876182167896646501
+      NES - Gradius - Playable Characters - Vic Viper_5: 3823891776016502110
+      NES - Gradius - Playable Characters - Vic Viper_6: 3039282064124092109
+      NES - Gradius - Playable Characters - Vic Viper_7: -8819378354561570604
+      NES - Gradius - Playable Characters - Vic Viper_8: -6862729091126025910
+      NES - Gradius - Playable Characters - Vic Viper_9: -4962499989679080733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

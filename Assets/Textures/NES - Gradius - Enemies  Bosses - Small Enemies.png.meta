@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: c176fc05a4dd1a241bc4b40e0d1a55e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2180884481176424040
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_0
+  - first:
+      213: -9146013970569565731
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_1
+  - first:
+      213: 7757993759974447356
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_2
+  - first:
+      213: 4923352598713444086
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_3
+  - first:
+      213: 7580384401034132989
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_4
+  - first:
+      213: 6052990833818565719
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_5
+  - first:
+      213: -4578278793032817163
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_6
+  - first:
+      213: -5374750311793578702
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_7
+  - first:
+      213: -4489891233905239584
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_8
+  - first:
+      213: -7592291952871977884
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_9
+  - first:
+      213: 3673873115168536702
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_10
+  - first:
+      213: -3760088292648597120
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_11
+  - first:
+      213: 8270580970639926497
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_12
+  - first:
+      213: 6827680748889394950
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_13
+  - first:
+      213: -925666281157660636
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_14
+  - first:
+      213: 6443372608774161308
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_15
+  - first:
+      213: 568524090862458024
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_16
+  - first:
+      213: -6118816879044728398
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_17
+  - first:
+      213: 1264117948271919065
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_18
+  - first:
+      213: -1313461818163390256
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_19
+  - first:
+      213: 5747627363174685198
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_20
+  - first:
+      213: 1214306445654028830
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_21
+  - first:
+      213: -7067681131544460218
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_22
+  - first:
+      213: 4228950282832848060
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_23
+  - first:
+      213: 4855629264864706943
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_24
+  - first:
+      213: 723943106664779177
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_25
+  - first:
+      213: 8141394144720174109
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_26
+  - first:
+      213: 714118386061301843
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_27
+  - first:
+      213: 5094495268682102269
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_28
+  - first:
+      213: 526636567244627748
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_29
+  - first:
+      213: 166254609008434677
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_30
+  - first:
+      213: 1115519782681687828
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_31
+  - first:
+      213: 827378310823783153
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_32
+  - first:
+      213: -6331907735030248975
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_33
+  - first:
+      213: 8735585080886608382
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_34
+  - first:
+      213: -7789216453828305897
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_35
+  - first:
+      213: 7392993010103057455
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_36
+  - first:
+      213: 902914746963726957
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_37
+  - first:
+      213: 2359426098953413082
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_38
+  - first:
+      213: 2866388366145520111
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_39
+  - first:
+      213: 1080160648840989502
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_40
+  - first:
+      213: 1602861870325846042
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_41
+  - first:
+      213: 1461254633410904409
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_42
+  - first:
+      213: -3591798244986174861
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_43
+  - first:
+      213: 2380488186809269027
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_44
+  - first:
+      213: -3894018880968389387
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_45
+  - first:
+      213: 7176317811646182898
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_46
+  - first:
+      213: -5842606843511779774
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_47
+  - first:
+      213: -2353742801347318672
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_48
+  - first:
+      213: 3668007745556130790
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_49
+  - first:
+      213: 9221592445739052087
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_50
+  - first:
+      213: -6843102520834943928
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_51
+  - first:
+      213: 1186410325074514660
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_52
+  - first:
+      213: -4778820348616681295
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_53
+  - first:
+      213: 3561940963250611767
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_54
+  - first:
+      213: -1903154197833147649
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_55
+  - first:
+      213: -785351965768575272
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_56
+  - first:
+      213: -3183431126453668309
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_57
+  - first:
+      213: 7463637076078806642
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_58
+  - first:
+      213: -1505855164038683635
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_59
+  - first:
+      213: -1365217812188093437
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_60
+  - first:
+      213: -1420060506646655144
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_61
+  - first:
+      213: 1092185103124664861
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_62
+  - first:
+      213: 5666545470444828286
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_63
+  - first:
+      213: -3597445013498178887
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_64
+  - first:
+      213: 5411473900412348671
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_65
+  - first:
+      213: 6283886038054012017
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_66
+  - first:
+      213: -2624121058875022491
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_67
+  - first:
+      213: 7319174337031911348
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_68
+  - first:
+      213: -2842558782872292229
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_69
+  - first:
+      213: -7376388619496245067
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_70
+  - first:
+      213: 4678804927075831287
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_71
+  - first:
+      213: 1414614195953993272
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_72
+  - first:
+      213: -8312048671805404843
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_73
+  - first:
+      213: 5857416808019710604
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_74
+  - first:
+      213: -7199747739728638213
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_75
+  - first:
+      213: -3528293247978917747
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_76
+  - first:
+      213: 8104108574176642972
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_77
+  - first:
+      213: 4265385051308348511
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_78
+  - first:
+      213: 4535399679871617551
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_79
+  - first:
+      213: 7392949976633441073
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_80
+  - first:
+      213: 85696476452194210
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_81
+  - first:
+      213: 7175779091241166626
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_82
+  - first:
+      213: -3849636912655906564
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_83
+  - first:
+      213: 7709697715480571602
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_84
+  - first:
+      213: 225906784751821017
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_85
+  - first:
+      213: 3639925057245513548
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_86
+  - first:
+      213: 3280752538671576352
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_87
+  - first:
+      213: 1876612008565789204
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_88
+  - first:
+      213: 272690883644529276
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_89
+  - first:
+      213: 8001107021293380593
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_90
+  - first:
+      213: 3170113230359259841
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_91
+  - first:
+      213: -5365458330441550372
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_92
+  - first:
+      213: -7619525009801431875
+    second: NES - Gradius - Enemies  Bosses - Small Enemies_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 114
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eceac71ee044e10800000000000000
+      internalID: 2180884481176424040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9e07d50c4d21180800000000000000
+      internalID: -9146013970569565731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 113
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf859f8983ee9ab60800000000000000
+      internalID: 7757993759974447356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 113
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6af4e7a13435440800000000000000
+      internalID: 4923352598713444086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 111
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3d8c337fe23960800000000000000
+      internalID: 7580384401034132989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 112
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c737ed71b800450800000000000000
+      internalID: 6052990833818565719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5239ac1bfa670c0800000000000000
+      internalID: -4578278793032817163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23daf1d611d0965b0800000000000000
+      internalID: -5374750311793578702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 113
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e910f216b3b0b1c0800000000000000
+      internalID: -4489891233905239584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c420ec1b2c2a690800000000000000
+      internalID: -7592291952871977884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 113
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e787a7b12283cf230800000000000000
+      internalID: 3673873115168536702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 113
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0894390ae9b71dbc0800000000000000
+      internalID: -3760088292648597120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42919c29107c270800000000000000
+      internalID: 8270580970639926497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f435d677bc0ce50800000000000000
+      internalID: 6827680748889394950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4207a03fb6f5723f0800000000000000
+      internalID: -925666281157660636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93477dcf357b6950800000000000000
+      internalID: 6443372608774161308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 111
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4db1206adc3e700800000000000000
+      internalID: 568524090862458024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9efd6a778951ba0800000000000000
+      internalID: -6118816879044728398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 90
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df71fc839c0b8110800000000000000
+      internalID: 1264117948271919065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 90
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d815567f65a5cde0800000000000000
+      internalID: -1313461818163390256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 90
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a975372aca3cf40800000000000000
+      internalID: 5747627363174685198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 90
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12fca557451ad010800000000000000
+      internalID: 1214306445654028830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644cf80057d8aed90800000000000000
+      internalID: -7067681131544460218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb42a0550ef30ba30800000000000000
+      internalID: 4228950282832848060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7180451719a26340800000000000000
+      internalID: 4855629264864706943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adc85e7b66fb0a00800000000000000
+      internalID: 723943106664779177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 90
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cbd74f6da0cf070800000000000000
+      internalID: 8141394144720174109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 90
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35852c873ee09e900800000000000000
+      internalID: 714118386061301843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df574bf747843b640800000000000000
+      internalID: 5094495268682102269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 92
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fd85cea2dfe4700800000000000000
+      internalID: 526636567244627748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 92
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd1830afa7ae4200800000000000000
+      internalID: 166254609008434677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 92
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b9a2055f1b7f00800000000000000
+      internalID: 1115519782681687828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faa387a0307b7b00800000000000000
+      internalID: 827378310823783153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f949fe767b8028a0800000000000000
+      internalID: -6331907735030248975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c27319580b3970800000000000000
+      internalID: 8735585080886608382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c9fee77e427e390800000000000000
+      internalID: -7789216453828305897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 69
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c732219ff299660800000000000000
+      internalID: 7392993010103057455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d621c33bd2cc78c00800000000000000
+      internalID: 902914746963726957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 72
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad167e5498d5eb020800000000000000
+      internalID: 2359426098953413082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 70
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe18a60480577c720800000000000000
+      internalID: 2866388366145520111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 69
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc58e13608dfe00800000000000000
+      internalID: 1080160648840989502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 73
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a105ac4f0628e3610800000000000000
+      internalID: 1602861870325846042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 72
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c9d6d85b674410800000000000000
+      internalID: 1461254633410904409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 71
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3724abeb68e572ec0800000000000000
+      internalID: -3591798244986174861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 71
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bb7ceb461390120800000000000000
+      internalID: 2380488186809269027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc073b857aa5f9c0800000000000000
+      internalID: -3894018880968389387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 71
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5ba762707679360800000000000000
+      internalID: 7176317811646182898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 71
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ec6320804eaeea0800000000000000
+      internalID: -5842606843511779774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 71
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6f019463d55fd0800000000000000
+      internalID: -2353742801347318672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 71
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb21435c9167e230800000000000000
+      internalID: 3668007745556130790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 71
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca3b7a87da9ff70800000000000000
+      internalID: 9221592445739052087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8449d0c738a6801a0800000000000000
+      internalID: -6843102520834943928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 47
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e21cef97e9f67010800000000000000
+      internalID: 1186410325074514660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b85b4356383eadb0800000000000000
+      internalID: -4778820348616681295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 52
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73627712f6e8e6130800000000000000
+      internalID: 3561940963250611767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa9c552753a695e0800000000000000
+      internalID: -1903154197833147649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 46
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d695b05c8ed915f0800000000000000
+      internalID: -785351965768575272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26beccc14e22d3d0800000000000000
+      internalID: -3183431126453668309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 51
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276cc1c606a249760800000000000000
+      internalID: 7463637076078806642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046948e4b02a1be0800000000000000
+      internalID: -1505855164038683635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 48
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3042e7f02a5cd0de0800000000000000
+      internalID: -1365217812188093437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc3c53e7eea4ce0800000000000000
+      internalID: -1420060506646655144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 48
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1218bc8098382f00800000000000000
+      internalID: 1092185103124664861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 48
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76767d251d93ae40800000000000000
+      internalID: 5666545470444828286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2d07ff1de431ec0800000000000000
+      internalID: -3597445013498178887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8206957da691b40800000000000000
+      internalID: 5411473900412348671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740f33ee09d43750800000000000000
+      internalID: 6283886038054012017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563e126dccf359bd0800000000000000
+      internalID: -2624121058875022491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b731f7e74ee29560800000000000000
+      internalID: 7319174337031911348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 26
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74fab5f8d33d88d0800000000000000
+      internalID: -2842558782872292229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b831b1e1adc1a990800000000000000
+      internalID: -7376388619496245067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc3b3ba447ee040800000000000000
+      internalID: 4678804927075831287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360014cd18b1a310800000000000000
+      internalID: 1414614195953993272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5590849a5cba5ac80800000000000000
+      internalID: -8312048671805404843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82da6f8d89b94150800000000000000
+      internalID: 5857416808019710604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe8d0d939b551c90800000000000000
+      internalID: -7199747739728638213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 26
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80bec21cfbf80fc0800000000000000
+      internalID: -3528293247978917747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c970ff09fc3977070800000000000000
+      internalID: 8104108574176642972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54de7dea11b13b30800000000000000
+      internalID: 4265385051308348511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0b21baf9f0fe30800000000000000
+      internalID: 4535399679871617551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bf77f85d8099660800000000000000
+      internalID: 7392949976633441073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a78f65cd74703100800000000000000
+      internalID: 85696476452194210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227ea18801d759360800000000000000
+      internalID: 7175779091241166626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 7
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8c9eacf97539ac0800000000000000
+      internalID: -3849636912655906564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de2cd879395efa60800000000000000
+      internalID: 7709697715480571602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0ab791605922300800000000000000
+      internalID: 225906784751821017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47892eed8c938230800000000000000
+      internalID: 3639925057245513548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025fa7f3d03978d20800000000000000
+      internalID: 3280752538671576352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412dbc7dda01b0a10800000000000000
+      internalID: 1876612008565789204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a9e15f9eac8c300800000000000000
+      internalID: 272690883644529276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f36316b174a90f60800000000000000
+      internalID: 8001107021293380593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6451ef218efb20800000000000000
+      internalID: 3170113230359259841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5fedc63101a85b0800000000000000
+      internalID: -5365458330441550372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Gradius - Enemies  Bosses - Small Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4b491af52024690800000000000000
+      internalID: -7619525009801431875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Gradius - Enemies  Bosses - Small Enemies_0: 2180884481176424040
+      NES - Gradius - Enemies  Bosses - Small Enemies_1: -9146013970569565731
+      NES - Gradius - Enemies  Bosses - Small Enemies_10: 3673873115168536702
+      NES - Gradius - Enemies  Bosses - Small Enemies_11: -3760088292648597120
+      NES - Gradius - Enemies  Bosses - Small Enemies_12: 8270580970639926497
+      NES - Gradius - Enemies  Bosses - Small Enemies_13: 6827680748889394950
+      NES - Gradius - Enemies  Bosses - Small Enemies_14: -925666281157660636
+      NES - Gradius - Enemies  Bosses - Small Enemies_15: 6443372608774161308
+      NES - Gradius - Enemies  Bosses - Small Enemies_16: 568524090862458024
+      NES - Gradius - Enemies  Bosses - Small Enemies_17: -6118816879044728398
+      NES - Gradius - Enemies  Bosses - Small Enemies_18: 1264117948271919065
+      NES - Gradius - Enemies  Bosses - Small Enemies_19: -1313461818163390256
+      NES - Gradius - Enemies  Bosses - Small Enemies_2: 7757993759974447356
+      NES - Gradius - Enemies  Bosses - Small Enemies_20: 5747627363174685198
+      NES - Gradius - Enemies  Bosses - Small Enemies_21: 1214306445654028830
+      NES - Gradius - Enemies  Bosses - Small Enemies_22: -7067681131544460218
+      NES - Gradius - Enemies  Bosses - Small Enemies_23: 4228950282832848060
+      NES - Gradius - Enemies  Bosses - Small Enemies_24: 4855629264864706943
+      NES - Gradius - Enemies  Bosses - Small Enemies_25: 723943106664779177
+      NES - Gradius - Enemies  Bosses - Small Enemies_26: 8141394144720174109
+      NES - Gradius - Enemies  Bosses - Small Enemies_27: 714118386061301843
+      NES - Gradius - Enemies  Bosses - Small Enemies_28: 5094495268682102269
+      NES - Gradius - Enemies  Bosses - Small Enemies_29: 526636567244627748
+      NES - Gradius - Enemies  Bosses - Small Enemies_3: 4923352598713444086
+      NES - Gradius - Enemies  Bosses - Small Enemies_30: 166254609008434677
+      NES - Gradius - Enemies  Bosses - Small Enemies_31: 1115519782681687828
+      NES - Gradius - Enemies  Bosses - Small Enemies_32: 827378310823783153
+      NES - Gradius - Enemies  Bosses - Small Enemies_33: -6331907735030248975
+      NES - Gradius - Enemies  Bosses - Small Enemies_34: 8735585080886608382
+      NES - Gradius - Enemies  Bosses - Small Enemies_35: -7789216453828305897
+      NES - Gradius - Enemies  Bosses - Small Enemies_36: 7392993010103057455
+      NES - Gradius - Enemies  Bosses - Small Enemies_37: 902914746963726957
+      NES - Gradius - Enemies  Bosses - Small Enemies_38: 2359426098953413082
+      NES - Gradius - Enemies  Bosses - Small Enemies_39: 2866388366145520111
+      NES - Gradius - Enemies  Bosses - Small Enemies_4: 7580384401034132989
+      NES - Gradius - Enemies  Bosses - Small Enemies_40: 1080160648840989502
+      NES - Gradius - Enemies  Bosses - Small Enemies_41: 1602861870325846042
+      NES - Gradius - Enemies  Bosses - Small Enemies_42: 1461254633410904409
+      NES - Gradius - Enemies  Bosses - Small Enemies_43: -3591798244986174861
+      NES - Gradius - Enemies  Bosses - Small Enemies_44: 2380488186809269027
+      NES - Gradius - Enemies  Bosses - Small Enemies_45: -3894018880968389387
+      NES - Gradius - Enemies  Bosses - Small Enemies_46: 7176317811646182898
+      NES - Gradius - Enemies  Bosses - Small Enemies_47: -5842606843511779774
+      NES - Gradius - Enemies  Bosses - Small Enemies_48: -2353742801347318672
+      NES - Gradius - Enemies  Bosses - Small Enemies_49: 3668007745556130790
+      NES - Gradius - Enemies  Bosses - Small Enemies_5: 6052990833818565719
+      NES - Gradius - Enemies  Bosses - Small Enemies_50: 9221592445739052087
+      NES - Gradius - Enemies  Bosses - Small Enemies_51: -6843102520834943928
+      NES - Gradius - Enemies  Bosses - Small Enemies_52: 1186410325074514660
+      NES - Gradius - Enemies  Bosses - Small Enemies_53: -4778820348616681295
+      NES - Gradius - Enemies  Bosses - Small Enemies_54: 3561940963250611767
+      NES - Gradius - Enemies  Bosses - Small Enemies_55: -1903154197833147649
+      NES - Gradius - Enemies  Bosses - Small Enemies_56: -785351965768575272
+      NES - Gradius - Enemies  Bosses - Small Enemies_57: -3183431126453668309
+      NES - Gradius - Enemies  Bosses - Small Enemies_58: 7463637076078806642
+      NES - Gradius - Enemies  Bosses - Small Enemies_59: -1505855164038683635
+      NES - Gradius - Enemies  Bosses - Small Enemies_6: -4578278793032817163
+      NES - Gradius - Enemies  Bosses - Small Enemies_60: -1365217812188093437
+      NES - Gradius - Enemies  Bosses - Small Enemies_61: -1420060506646655144
+      NES - Gradius - Enemies  Bosses - Small Enemies_62: 1092185103124664861
+      NES - Gradius - Enemies  Bosses - Small Enemies_63: 5666545470444828286
+      NES - Gradius - Enemies  Bosses - Small Enemies_64: -3597445013498178887
+      NES - Gradius - Enemies  Bosses - Small Enemies_65: 5411473900412348671
+      NES - Gradius - Enemies  Bosses - Small Enemies_66: 6283886038054012017
+      NES - Gradius - Enemies  Bosses - Small Enemies_67: -2624121058875022491
+      NES - Gradius - Enemies  Bosses - Small Enemies_68: 7319174337031911348
+      NES - Gradius - Enemies  Bosses - Small Enemies_69: -2842558782872292229
+      NES - Gradius - Enemies  Bosses - Small Enemies_7: -5374750311793578702
+      NES - Gradius - Enemies  Bosses - Small Enemies_70: -7376388619496245067
+      NES - Gradius - Enemies  Bosses - Small Enemies_71: 4678804927075831287
+      NES - Gradius - Enemies  Bosses - Small Enemies_72: 1414614195953993272
+      NES - Gradius - Enemies  Bosses - Small Enemies_73: -8312048671805404843
+      NES - Gradius - Enemies  Bosses - Small Enemies_74: 5857416808019710604
+      NES - Gradius - Enemies  Bosses - Small Enemies_75: -7199747739728638213
+      NES - Gradius - Enemies  Bosses - Small Enemies_76: -3528293247978917747
+      NES - Gradius - Enemies  Bosses - Small Enemies_77: 8104108574176642972
+      NES - Gradius - Enemies  Bosses - Small Enemies_78: 4265385051308348511
+      NES - Gradius - Enemies  Bosses - Small Enemies_79: 4535399679871617551
+      NES - Gradius - Enemies  Bosses - Small Enemies_8: -4489891233905239584
+      NES - Gradius - Enemies  Bosses - Small Enemies_80: 7392949976633441073
+      NES - Gradius - Enemies  Bosses - Small Enemies_81: 85696476452194210
+      NES - Gradius - Enemies  Bosses - Small Enemies_82: 7175779091241166626
+      NES - Gradius - Enemies  Bosses - Small Enemies_83: -3849636912655906564
+      NES - Gradius - Enemies  Bosses - Small Enemies_84: 7709697715480571602
+      NES - Gradius - Enemies  Bosses - Small Enemies_85: 225906784751821017
+      NES - Gradius - Enemies  Bosses - Small Enemies_86: 3639925057245513548
+      NES - Gradius - Enemies  Bosses - Small Enemies_87: 3280752538671576352
+      NES - Gradius - Enemies  Bosses - Small Enemies_88: 1876612008565789204
+      NES - Gradius - Enemies  Bosses - Small Enemies_89: 272690883644529276
+      NES - Gradius - Enemies  Bosses - Small Enemies_9: -7592291952871977884
+      NES - Gradius - Enemies  Bosses - Small Enemies_90: 8001107021293380593
+      NES - Gradius - Enemies  Bosses - Small Enemies_91: 3170113230359259841
+      NES - Gradius - Enemies  Bosses - Small Enemies_92: -5365458330441550372
+      NES - Gradius - Enemies  Bosses - Small Enemies_93: -7619525009801431875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
