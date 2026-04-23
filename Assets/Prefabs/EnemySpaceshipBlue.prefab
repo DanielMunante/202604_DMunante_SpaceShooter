@@ -106,7 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48a0316b0b2c9f54f8ff13d64d22db19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpaceShipBlue
-  speed: 1
+  speed: 2
   leftLimitCoordinate: -8
   rightScreenLimit: 8
   scoreValue: 10

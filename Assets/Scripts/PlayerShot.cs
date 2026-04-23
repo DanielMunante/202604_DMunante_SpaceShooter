@@ -20,8 +20,8 @@ public class PlayerShot : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        //para cuando el disparo toca algo a Player, no hace nada
-        if (collision.collider.CompareTag("Player"))
+        //cuando el disparo toca algo a Player, no hace nada
+        if (collision.collider.CompareTag("Player") || collision.collider.CompareTag("BossShot"))
         {
             return;
         }

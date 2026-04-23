@@ -11,6 +11,8 @@ public class HudController : MonoBehaviour
     [SerializeField] Button restartButton; //boton para iniciar el juego nuevamente
     [SerializeField] Button menuButton; //boton menu principal
 
+    [SerializeField] TextMeshProUGUI gameOverTitle; //mejora para el titulo del panel
+
     private void Start()
     {
         gameOverPanel.SetActive(false);
@@ -28,6 +30,15 @@ public class HudController : MonoBehaviour
     //Cuando el juego termina muestra la puntuacion final
     public void ShowGameOver()
     {
+        gameOverTitle.text = "GAME OVER";
+        gameOverTitle.color = Color.red;
+        gameOverPanel.SetActive(true);
+        finalScoreText.text = "Puntuación final: " + GameSession.Instance.score;
+    }
+    public void ShowVictory()
+    {
+        gameOverTitle.text = "¡VICTORIA!";
+        gameOverTitle.color = Color.green;
         gameOverPanel.SetActive(true);
         finalScoreText.text = "Puntuación final: " + GameSession.Instance.score;
     }

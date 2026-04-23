@@ -4,7 +4,7 @@ using UnityEngine;
 public class EnemyGenerator : MonoBehaviour
 {
     [SerializeField] GameObject prefabEnemy;
-    [SerializeField] float timeBetweenShips = 3f;
+    [SerializeField] float timeBetweenShips = 1f;
     [SerializeField] Transform top;
     [SerializeField] Transform bottom;
 
