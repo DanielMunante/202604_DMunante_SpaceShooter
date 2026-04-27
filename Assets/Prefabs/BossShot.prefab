@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 2957253818474586587}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.422, y: -0.258, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalPosition: {x: 2.11, y: -1.29, z: 0}
+  m_LocalScale: {x: 7.5, y: 7.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_MaskInteraction: 0
   m_Sprite: {fileID: -5058516417315270440, guid: 0cb15b95f5078dc40ab60efecbd8dfee, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -169,5 +169,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c7c3bba3359a52409a890aebd7f5514, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossShot
-  speed: 5
+  speed: 25
   lifeTime: 3

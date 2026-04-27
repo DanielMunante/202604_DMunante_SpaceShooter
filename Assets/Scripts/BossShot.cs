@@ -13,13 +13,16 @@ public class BossShot : MonoBehaviour
 
     void Start()
     {
-        // Los proyectiles van hacia la izquierda (hacia el jugador)
+        //proyectiles van hacia la izquierda (hacia el jugador)
         rb2d.linearVelocity = Vector2.left * speed;
         Destroy(gameObject, lifeTime);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.collider.CompareTag("PowerUp")) return;
+        if (collision.collider.CompareTag("PlayerShot")) return;
+
         //cuando el disparo toca a Player, le va quitando vidas
         if (collision.collider.CompareTag("Player"))
         {

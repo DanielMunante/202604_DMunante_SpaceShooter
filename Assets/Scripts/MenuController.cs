@@ -1,6 +1,6 @@
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 
 public class MenuController : MonoBehaviour
@@ -17,7 +17,7 @@ public class MenuController : MonoBehaviour
 
     void Awake()
     {
-        // Pausar el juego INMEDIATAMENTE (antes que cualquier Start de otros scripts)
+        //Pausa el tiempo inmediatamente para que el juego no empiece solo
         Time.timeScale = 0f;
     }
 
@@ -34,7 +34,16 @@ public class MenuController : MonoBehaviour
 
     void Update()
     {
-        if (!mainMenuPanel.activeSelf && Keyboard.current.escapeKey.wasPressedThisFrame)
+        //El menu pausa se puede realizar
+        //cuando el menu principal esta activo y cuando el juego ha terminado, no hace nada y declaramos pausa = false
+        //cuando se presiona el boton pause
+        if (mainMenuPanel.activeSelf || GameSession.Instance.isGameOver) return;
+        bool pausePressed = false;
+        if (Keyboard.current != null && Keyboard.current.escapeKey.wasPressedThisFrame)
+            pausePressed = true;
+        if (Gamepad.current != null && Gamepad.current.startButton.wasPressedThisFrame)
+            pausePressed = true;
+        if (pausePressed)
         {
             if (isPaused)
                 ResumeGame();
@@ -47,6 +56,14 @@ public class MenuController : MonoBehaviour
     {
         mainMenuPanel.SetActive(false);
         Time.timeScale = 1f;
+    }
+    void QuitGame()
+    {
+        Application.Quit();
+
+    #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+    #endif
     }
 
     void PauseGame()
@@ -62,13 +79,5 @@ public class MenuController : MonoBehaviour
         Time.timeScale = 1f;
         isPaused = false;
     }
-
-    void QuitGame()
-    {
-        Application.Quit();
-
-#if UNITY_EDITOR
-        UnityEditor.EditorApplication.isPlaying = false;
-#endif
-    }
+        
 }

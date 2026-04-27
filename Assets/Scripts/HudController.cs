@@ -1,6 +1,8 @@
-using UnityEngine;
-using UnityEngine.UI;
+using System.Collections;
 using TMPro;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class HudController : MonoBehaviour
 {
@@ -33,14 +35,24 @@ public class HudController : MonoBehaviour
         gameOverTitle.text = "GAME OVER";
         gameOverTitle.color = Color.red;
         gameOverPanel.SetActive(true);
-        finalScoreText.text = "Puntuación final: " + GameSession.Instance.score;
+        finalScoreText.text = "Puntuación final: " + GameSession.Instance.score; 
+        
+        StartCoroutine(SelectButtonDelayed(restartButton));
     }
     public void ShowVictory()
     {
         gameOverTitle.text = "¡VICTORIA!";
         gameOverTitle.color = Color.green;
         gameOverPanel.SetActive(true);
-        finalScoreText.text = "Puntuación final: " + GameSession.Instance.score;
+        finalScoreText.text = "Puntuación final: " + GameSession.Instance.score; 
+        
+        StartCoroutine(SelectButtonDelayed(restartButton));
+    }
+    IEnumerator SelectButtonDelayed(Button button)
+    {
+        yield return null;
+        EventSystem.current.SetSelectedGameObject(null);
+        EventSystem.current.SetSelectedGameObject(button.gameObject);
     }
 
     //para volver a iniciar el juego

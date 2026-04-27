@@ -6,6 +6,9 @@ TagManager:
   tags:
   - PlayerShot
   - BossShot
+  - PowerUp
+  - LaserBeam
+  - EnemyShipBlue
   layers:
   - Default
   - TransparentFX
